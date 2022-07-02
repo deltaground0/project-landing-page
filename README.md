@@ -1,1 +1,3 @@
 # project-landing-page
+
+This is the first full webpage that will be/will have been completely developed by me. All I have are the final product that I'm aiming for and the collections of colors, fonts, and font sizes (if I'm lucky). The goal is to recreate the final product using the skills I've learned in html and css, particularly the use of flexbox. I already have an initial plan and I hope that with this, my understanding of flexbox is at least enough to see me through without extremely intensive research
