@@ -23,6 +23,15 @@ img {
     flex-direction: row-reverse;
 }
 
+.second-text-and-image {
+    display: flex;
+    flex-direction: column;
+}
+
+.groups {
+    display: flex;
+}
+
 .top-row, .links {
     display: flex;
 }
