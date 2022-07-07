@@ -69,3 +69,32 @@ button {
     border-radius: 8px;
     border-style: none;
 }
+
+.info {
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+    .info p {
+        font-size: 36px;
+        font-weight: bolder;
+    }
+
+    .info img {
+        border-radius: 10%;
+    }
+
+    .pairs {
+        display: flex;
+        justify-content: center;
+        padding-left: 18%;
+        padding-right: 18%;
+    }
+    .box {
+        margin: 20px;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
