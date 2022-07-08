@@ -58,7 +58,7 @@ ul {
         width: 65%;
     }
 
-button {
+#top-button {
     margin-top: 5px;
     background: #3882F6;
     color: #F9FAF8;
@@ -123,3 +123,49 @@ button {
     font-weight: 600;
     align-self: flex-end;
 }
+
+.call {
+    padding-top: 84px;
+    padding-bottom: 84px;
+    padding-right: 12.5%;
+    padding-left: 12.5%;
+}
+
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding-left: 10%;
+    padding-right: 12%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#bottom-button {
+    height: 34px;
+    width: 120px;
+    align-self: center;
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    padding: 0;
+    background: #3882F6;
+    color: #F9FAF8;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.bold, .message {
+    margin: 0%;
+}
+    .bold {
+        color: #E5E7EB;
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .message {
+        color: #F9FAF8;
+    }
