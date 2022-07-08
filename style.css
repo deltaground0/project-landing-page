@@ -169,3 +169,13 @@ ul {
     .message {
         color: #F9FAF8;
     }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
